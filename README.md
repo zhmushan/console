@@ -6,3 +6,17 @@
 [ci_url]: https://github.com/zhmushan/console/actions
 [license_image]: https://img.shields.io/github/license/zhmushan/console.svg
 [license_url]: https://github.com/zhmushan/console/blob/master/LICENSE
+
+## Installation
+
+```sh
+npm i zhmushan/console
+```
+
+## Usage
+
+```ts
+import console from "@zhmushan/console";
+
+console.log("Hello World!");
+```
